@@ -1,0 +1,20 @@
+title: <p align="center"> Maximiliaan Landesz </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/maxlandesz/">LinkedIn</a> |
+  <a href="https://github.com/max837381">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am pursing MS degree in Applied Economics and Finance at the University of California, Santa Cruz.
+  <br><br>
+  I am currently a Research Assistant at the Income Dynamics Lab under guidance of Professor Ajay Shenoy (University of California, Santa Cruz)
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
+
