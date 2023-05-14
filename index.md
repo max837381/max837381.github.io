@@ -7,7 +7,7 @@
 
 As an undergraduate research assistant I was coding the NLP workflow to convert Congressional speech data into bigrams to use as regressors in gamma Lasso regression from the 'gamlr' package. Lasso was used here as a regularization method to select the most relevant features (i.e. words) to predict political slant.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/max837381/max837381.github.io/blob/main/projects/Current_Journalist_R_Notebook.html)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/max837381/max837381.github.io/blob/main/projects/Think_Tank_Current_Journalist_R_Notebook.Rmd)
 
 <center><img src="images/lasso-aicc-journalist-project.png"/></center>
 
